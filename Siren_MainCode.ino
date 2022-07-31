@@ -1,3 +1,6 @@
+//By Miguel Ramos Gil
+//Tks!
+
 // ========================================================================================================
 #include <virtuabotixRTC.h>                    //Lib to the RTC MODULE DS1302      
 #include <WiFi.h>
