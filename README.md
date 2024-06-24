@@ -6,4 +6,4 @@ Com um objetivo simples de criar uma sirene automatizada para o campus, de fáci
 Neste repositório estão todos os códigos, incluindo os codigos dos prototipo. E se encontra também o documento de TCC para o maior entendimento do projeto.
 
 ## Créditos
-[Miguel Ramos Gil](https://github.com/Molgo) [Michael Monteiro de Lima](https://github.com/MichaelLimaDeveloper) [Luiz Felipe Silva Oliveira](https://github.com/luizsoliveira) Pedro Henrique Biega Lopes Bandeira
+Pedro Henrique Biega Lopes Bandeira [Miguel Ramos Gil](https://github.com/Molgo) [Michael Monteiro de Lima](https://github.com/MichaelLimaDeveloper) [Luiz Felipe Silva Oliveira](https://github.com/luizsoliveira)
