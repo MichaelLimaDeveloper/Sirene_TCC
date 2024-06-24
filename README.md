@@ -4,3 +4,6 @@ Trabalho de conclusão de curso realizado para a conclusão do curso técnico de
 Com um objetivo simples de criar uma sirene automatizada para o campus, de fácil manutenção e uso intuitivo utilizando tecnologias como esp32, arduino ide, modulos e bibliotecas para o codigo que foi desenvolvido. Ainda foi criado uma pagina web que se comunica com o esp32 via internet de qualquer lugar do mundo.
 
 Neste repositório estão todos os códigos, incluindo os codigos dos prototipo. E se encontra também o documento de TCC para o maior entendimento do projeto.
+
+## Créditos
+[Miguel Ramos Gil](https://github.com/Molgo) [Michael Monteiro de Lima](https://github.com/MichaelLimaDeveloper) [Luiz Felipe Silva Oliveira](https://github.com/luizsoliveira) [Pedro Henrique Biega Lopes Bandeira]
